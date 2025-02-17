@@ -1,4 +1,3 @@
-# Semester4-CSharp-Programming
 # C# Programming Course - Semester 4
 
 As the instructor at CITYCOT University, welcome to the C# Programming course repository for Semester 4. This repository contains all the necessary resources for the course, including lecture notes, assignments, and code examples that I have developed to guide you through learning C#.
